@@ -1,0 +1,64 @@
+C:\Users\Ángel\Documents\trabajo\2014118265-LC2\2014118265-PER\obj\Debug\2014118265-PER.csprojResolveAssemblyReference.cache
+C:\Users\Ángel\Documents\trabajo\2014118265-LC2\2014118265-PER\bin\Debug\2014118265-PER.dll.config
+C:\Users\Ángel\Documents\trabajo\2014118265-LC2\2014118265-PER\bin\Debug\2014118265-PER.dll
+C:\Users\Ángel\Documents\trabajo\2014118265-LC2\2014118265-PER\bin\Debug\2014118265-PER.pdb
+C:\Users\Ángel\Documents\trabajo\2014118265-LC2\2014118265-PER\bin\Debug\2014118265-ENT.dll
+C:\Users\Ángel\Documents\trabajo\2014118265-LC2\2014118265-PER\bin\Debug\EntityFramework.dll
+C:\Users\Ángel\Documents\trabajo\2014118265-LC2\2014118265-PER\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ángel\Documents\trabajo\2014118265-LC2\2014118265-PER\bin\Debug\2014118265-ENT.pdb
+C:\Users\Ángel\Documents\trabajo\2014118265-LC2\2014118265-PER\bin\Debug\EntityFramework.xml
+C:\Users\Ángel\Documents\trabajo\2014118265-LC2\2014118265-PER\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ángel\Documents\trabajo\2014118265-LC2\2014118265-PER\obj\Debug\2014118265-PER.dll
+C:\Users\Ángel\Documents\trabajo\2014118265-LC2\2014118265-PER\obj\Debug\2014118265-PER.pdb
+C:\Users\Ángel\Desktop\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-PER\bin\Debug\2014118265-PER.dll.config
+C:\Users\Ángel\Desktop\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-PER\bin\Debug\2014118265-PER.dll
+C:\Users\Ángel\Desktop\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-PER\bin\Debug\2014118265-PER.pdb
+C:\Users\Ángel\Desktop\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-PER\bin\Debug\2014118265-ENT.dll
+C:\Users\Ángel\Desktop\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-PER\bin\Debug\EntityFramework.dll
+C:\Users\Ángel\Desktop\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-PER\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ángel\Desktop\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-PER\bin\Debug\2014118265-ENT.pdb
+C:\Users\Ángel\Desktop\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-PER\bin\Debug\EntityFramework.xml
+C:\Users\Ángel\Desktop\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-PER\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ángel\Desktop\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-PER\obj\Debug\2014118265-PER.csprojResolveAssemblyReference.cache
+C:\Users\Ángel\Desktop\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-PER\obj\Debug\2014118265-PER.dll
+C:\Users\Ángel\Desktop\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-PER\obj\Debug\2014118265-PER.pdb
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-PER\obj\Debug\2014118265-PER.csprojResolveAssemblyReference.cache
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-PER\obj\Debug\2014118265-PER.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-PER\obj\Debug\2014118265-PER.pdb
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-PER\bin\Debug\2014118265-PER.dll.config
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-PER\bin\Debug\2014118265-PER.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-PER\bin\Debug\2014118265-PER.pdb
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-PER\bin\Debug\2014118265-ENT.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-PER\bin\Debug\EntityFramework.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-PER\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-PER\bin\Debug\2014118265-ENT.pdb
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-PER\bin\Debug\EntityFramework.xml
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-PER\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-PER\bin\Debug\2014118265-PER.dll.config
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-PER\bin\Debug\2014118265-PER.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-PER\bin\Debug\2014118265-PER.pdb
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-PER\bin\Debug\2014118265-ENT.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-PER\bin\Debug\EntityFramework.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-PER\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-PER\bin\Debug\2014118265-ENT.pdb
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-PER\bin\Debug\EntityFramework.xml
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-PER\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-PER\obj\Debug\2014118265-PER.csprojResolveAssemblyReference.cache
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-PER\obj\Debug\2014118265-PER.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-PER\obj\Debug\2014118265-PER.pdb
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-PER\obj\Debug\_2014118265_PER.Migrations.InitialModel.resources
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-PER\obj\Debug\2014118265-PER.csproj.GenerateResource.Cache
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-PER\bin\Debug\2014118265-PER.dll.config
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-PER\bin\Debug\2014118265-PER.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-PER\bin\Debug\2014118265-PER.pdb
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-PER\bin\Debug\2014118265-ENT.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-PER\bin\Debug\EntityFramework.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-PER\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-PER\bin\Debug\2014118265-ENT.pdb
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-PER\bin\Debug\EntityFramework.xml
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-PER\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-PER\obj\Debug\2014118265-PER.csprojResolveAssemblyReference.cache
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-PER\obj\Debug\_2014118265_PER.Migrations.InitialModel.resources
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-PER\obj\Debug\2014118265-PER.csproj.GenerateResource.Cache
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-PER\obj\Debug\2014118265-PER.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-PER\obj\Debug\2014118265-PER.pdb

@@ -1,0 +1,270 @@
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\ApplicationInsights.config
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\csc.exe
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\csc.exe.config
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\csc.rsp
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\csi.exe
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\csi.rsp
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\System.AppContext.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\vbc.exe
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\vbc.exe.config
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\vbc.rsp
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\2014118265-MVC.dll.config
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\2014118265-MVC.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\2014118265-MVC.pdb
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\2014118265-ENT.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\2014118265-PER.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Antlr3.Runtime.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\EntityFramework.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.AI.Web.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Newtonsoft.Json.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\System.Web.Helpers.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\System.Web.Mvc.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\System.Web.Optimization.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\System.Web.Razor.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\System.Web.WebPages.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\WebGrease.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\2014118265-ENT.pdb
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\2014118265-PER.pdb
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\2014118265-PER.dll.config
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\EntityFramework.xml
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\System.Web.Helpers.xml
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\System.Web.Mvc.xml
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\System.Web.Optimization.xml
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\System.Web.Razor.xml
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\System.Web.WebPages.xml
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Antlr3.Runtime.pdb
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Newtonsoft.Json.xml
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.AI.Web.xml
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\obj\Debug\2014118265-MVC.csprojResolveAssemblyReference.cache
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\obj\Debug\2014118265-MVC.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\obj\Debug\2014118265-MVC.pdb
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Ninject.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Ninject.Web.Common.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Ninject.Web.Mvc.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\WebActivatorEx.dll
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Ninject.xml
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Ninject.Web.Common.xml
+C:\Users\Ángel\Desktop\.vs\ddata\CV_ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Ninject.Web.Mvc.xml
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\ApplicationInsights.config
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\csc.exe
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\csc.exe.config
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\csc.rsp
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\csi.exe
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\csi.rsp
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\System.AppContext.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\vbc.exe
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\vbc.exe.config
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\vbc.rsp
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\2014118265-MVC.dll.config
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\2014118265-MVC.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\2014118265-MVC.pdb
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\2014118265-ENT.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\2014118265-PER.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Antlr3.Runtime.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\EntityFramework.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.AI.Web.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Newtonsoft.Json.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Ninject.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Ninject.Web.Common.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Ninject.Web.Mvc.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\System.Web.Helpers.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\System.Web.Mvc.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\System.Web.Optimization.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\System.Web.Razor.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\System.Web.WebPages.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\WebActivatorEx.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\WebGrease.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\2014118265-ENT.pdb
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\2014118265-PER.pdb
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\2014118265-PER.dll.config
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\EntityFramework.xml
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Ninject.xml
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Ninject.Web.Common.xml
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Ninject.Web.Mvc.xml
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\System.Web.Helpers.xml
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\System.Web.Mvc.xml
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\System.Web.Optimization.xml
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\System.Web.Razor.xml
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\System.Web.WebPages.xml
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Antlr3.Runtime.pdb
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Newtonsoft.Json.xml
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.AI.Web.xml
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\obj\Debug\2014118265-MVC.csprojResolveAssemblyReference.cache
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\obj\Debug\2014118265-MVC.dll
+C:\Users\Gerson Romero\Documents\Proyecto de ANGEL\2014118265-LC2\2014118265-LC2\2014118265-MVC\obj\Debug\2014118265-MVC.pdb
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\obj\Debug\2014118265-MVC.csprojResolveAssemblyReference.cache
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\obj\Debug\2014118265-MVC.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\obj\Debug\2014118265-MVC.pdb
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\ApplicationInsights.config
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\csc.exe
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\csc.exe.config
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\csc.rsp
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\csi.exe
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\csi.rsp
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\System.AppContext.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\vbc.exe
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\vbc.exe.config
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\vbc.rsp
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\2014118265-MVC.dll.config
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\2014118265-MVC.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\2014118265-MVC.pdb
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\2014118265-ENT.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\2014118265-PER.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Antlr3.Runtime.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\EntityFramework.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.AI.Web.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Newtonsoft.Json.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Ninject.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Ninject.Web.Common.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Ninject.Web.Mvc.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\System.Web.Helpers.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\System.Web.Mvc.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\System.Web.Optimization.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\System.Web.Razor.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\System.Web.WebPages.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\WebActivatorEx.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\WebGrease.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\2014118265-ENT.pdb
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\2014118265-PER.pdb
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\2014118265-PER.dll.config
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\EntityFramework.xml
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Ninject.xml
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Ninject.Web.Common.xml
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Ninject.Web.Mvc.xml
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\System.Web.Helpers.xml
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\System.Web.Mvc.xml
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\System.Web.Optimization.xml
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\System.Web.Razor.xml
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\System.Web.WebPages.xml
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Antlr3.Runtime.pdb
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Newtonsoft.Json.xml
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\Microsoft.AI.Web.xml
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Ángel\Pictures\PRACTICA\2014118265-LC2\2014118265-LC2\2014118265-MVC\bin\es\System.Web.WebPages.Razor.resources.dll
